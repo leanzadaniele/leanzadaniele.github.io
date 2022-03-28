@@ -15,7 +15,7 @@ header{
     height: 500px;
     display: flex;
     color:#fff;
-    background-image: url("img/bg_header.jpeg");
+    background-image: url("bg_header.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
