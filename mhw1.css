@@ -109,7 +109,7 @@ section .number{
 }
 
 section .details{
-    width: 100%;
+    width: 66.67%;
     margin-left: 20px;
     text-align: left;
 }
